@@ -1,6 +1,10 @@
-### Hi there 👋
+### other statuses
+- trying to do something important
+- sometimes does important things
 
 <!--
+i leave it here lol
+
 **Dofoerix/Dofoerix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
