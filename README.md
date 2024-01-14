@@ -1,4 +1,5 @@
 ### other statuses
+- /dəfə'jeriks/ is learning important things
 - trying to do something important
 - sometimes does important things
 
